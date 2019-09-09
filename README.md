@@ -1,6 +1,6 @@
 ## Rainbow Spiral Map
 
-![alt text](https://raw.githubusercontent.com/LABCAT/rainbow-spiral-map/master/preview.jpg)
+![alt text](https://raw.githubusercontent.com/LABCAT/rainbow-spiral-map/master/preview.png)
 
 The rainbow spiral map is a gigantic diamond shape consisting of approximately 1.5 million octagon zones.  Each octagon zone is placed on the map in a specific order with the first zone located slightly to the left of the maps center.  Every following zone is placed on the map based on the location of the zone that precedes it.
 
