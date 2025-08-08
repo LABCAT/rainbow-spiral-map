@@ -2,6 +2,8 @@
 
 ![alt text](https://raw.githubusercontent.com/LABCAT/rainbow-spiral-map/master/preview.png)
 
+View it on GitHub Pages: https://labcat.github.io/rainbow-spiral-map/
+
 The rainbow spiral map is a gigantic diamond shape consisting of approximately 1.5 million octagon zones.  Each octagon zone is placed on the map in a specific order with the first zone located slightly to the left of the maps center.  Every following zone is placed on the map based on the location of the zone that precedes it.
 
 The colour palette of the map uses the HSB colour mode.  Beginning from the first octagon zone, there is a repeating pattern consisting of 24 colours used to determine the colour of each zone.  This creates the rainbow spiral effect present at the highest zoom level.
